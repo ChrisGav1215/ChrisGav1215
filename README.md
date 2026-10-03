@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChrisGav1215&color=818cf8&style=flat&label=VISITAS+AL+PERFIL" alt="Visitas" />
+  <img src="https://img.shields.io/badge/Visitas_al_perfil-100%2B-818cf8?style=flat&logo=github" alt="Visitas" />
 </p>
 
 ---
