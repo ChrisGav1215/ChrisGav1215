@@ -1,3 +1,7 @@
+<p align="center">
+  <code>~/chris-gav/perfil-inicio $ cat bienvenida.txt</code>
+</p>
+
 <h1 align="center">Hola, soy Christian</h1>
 <p align="center">
   <em>Diseñador UI/UX & Desarrollador Front-End</em><br>
